@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+🔭 I’m currently working on ft_containers_19. <br>
+💬 I'm looking for an internship.
+
+<img src="https://media0.giphy.com/media/TLeLKUdIc1tvAxb7ab/giphy.gif" />
+
 <!--
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 **Aglorios17/Aglorios17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
