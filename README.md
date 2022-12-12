@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- 🔭 I’m currently working on ft_containers_19. <br> -->
-💬 I'm looking for an internship.
+<!--💬 I'm looking for an internship.-->
 
 <img src="https://media0.giphy.com/media/TLeLKUdIc1tvAxb7ab/giphy.gif" />
 
