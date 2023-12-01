@@ -1,22 +1,21 @@
-### Hi there 👋
+# Hi, I'm Alessio ! 👋
 
-<!-- 🔭 I’m currently working on ft_containers_19. <br> -->
-<!--💬 I'm looking for an internship.-->
+👩‍💻 I'm currently working on H42N42
 
-<img src="https://media0.giphy.com/media/TLeLKUdIc1tvAxb7ab/giphy.gif" />
+🧠 I'm currently learning on WebApp
 
-<!--
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-**Aglorios17/Aglorios17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Versatile IT student with a strong foundation in network security and ethical hacking, complemented by a robust background in software development across various sectors. A product of the renowned Network 42 program, I bring a unique blend of skills and a passion for technology that has been nurtured since childhood.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Ethical Hacking: Applied knowledge gained at Deloitte to conduct ethical hacking exercises, ensuring system robustness and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software Development: Proficient in development across diverse sectors, leveraging skills to create innovative solutions.
+
+- Passion for Learning: Engaged in continuous personal projects, demonstrating a commitment to staying ahead in the ever-evolving field of technology.
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glorioso-alessio)
+
+
