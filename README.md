@@ -2,7 +2,7 @@
 
 👩‍💻 I'm currently working on H42N42
 
-🧠 I'm currently learning on WebApp
+🧠 I'm currently learning on WebApp and Automation
 
 🤔 I'm looking for an internship
 
