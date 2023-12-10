@@ -1,6 +1,6 @@
 # Hi, I'm Alessio ! 👋
 
-👩‍💻 I'm currently working on H42N42
+👩‍💻 I'm currently working on H42N42 and my home lab
 
 🧠 I'm currently learning on WebApp and Automation
 
