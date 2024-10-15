@@ -4,8 +4,6 @@
 
 🧠 I'm currently learning on WebApp and Automation
 
-🤔 I'm currently looking for a job
-
 ## 🚀 About Me
 Versatile IT student with a strong foundation in cyber security, complemented by a robust background in software development across various sectors. A product of the renowned Network 42 program, I bring a unique blend of skills and a passion for technology that has been nurtured since childhood.
 
