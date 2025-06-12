@@ -14,6 +14,8 @@ Versatile IT worker with a strong foundation in cyber security, complemented by 
 
 - Passion for Learning: Engaged in continuous personal projects, demonstrating a commitment to staying ahead in the ever-evolving field of technology.
 
+![Aglorios17's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aglorios17&show_icons=true&theme=gruvbox)
+
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glorioso-alessio)
